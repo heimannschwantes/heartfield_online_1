@@ -1,0 +1,46 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "B04190AD-1992-4B06-92E1-0904E2DB45FB",
+  "name": "col/fill/white",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9122462272644043,
+          "green": 0.9456939101219177,
+          "red": 0.94915372133255
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "B04190AD-1992-4B06-92E1-0904E2DB45FB",
+    "startDecorationType": 0
+  }
+}

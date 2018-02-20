@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BD31A22A-12A0-4050-AE0C-17DD0A0B23A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 26,
+    "x": 192,
+    "y": 2
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "checkbox/checkbox_active",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3FDA8EC-9785-4DE3-9322-F3281F8025A3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

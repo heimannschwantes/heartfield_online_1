@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3C5A29CE-86FC-4CAB-9827-88D888EC40AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30,
+    "x": 101,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "navbar/print",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8A93A2E7-02F0-44E9-807F-53F427954713",
+  "verticalSpacing": 0
+}

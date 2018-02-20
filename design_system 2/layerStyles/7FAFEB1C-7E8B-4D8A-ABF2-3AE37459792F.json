@@ -1,0 +1,46 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "7FAFEB1C-7E8B-4D8A-ABF2-3AE37459792F",
+  "name": "col/bor/blue",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8751328656462585,
+          "green": 0.6115055639270827,
+          "red": 0.5575070108227457
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "7FAFEB1C-7E8B-4D8A-ABF2-3AE37459792F",
+    "startDecorationType": 0
+  }
+}

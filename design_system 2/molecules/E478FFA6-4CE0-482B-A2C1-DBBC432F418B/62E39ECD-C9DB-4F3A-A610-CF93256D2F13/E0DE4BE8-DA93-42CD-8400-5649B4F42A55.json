@@ -1,0 +1,77 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIjE0Oj5CSktMTU5SVmJjZGVmZ2hpamxtVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAWYWxsZSBUcmVmZmVyIG1hcmtpZXJlbtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtgKIyQlJicoKSorLCwuLzAuWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIALgACACYAJEAEjQDszM0AAAAAjQDszM0AAAADSEgoyM6CACtI1Njc4WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI3OVhOU09iamVjdNI1Njs8XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOz05XxAQTlNQYXJhZ3JhcGhTdHlsZdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCkNGSaJERYAOgA+iR0iAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QE09iamVrdGl2TWsxLVJlZ3VsYXLSNTZPUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1E5XE5TRGljdGlvbmFyedI1NlNUXxAQTlNGb250RGVzY3JpcHRvcqJVOV8QEE5TRm9udERlc2NyaXB0b3LTERIKV1wdpFhZWluAFYAWgBeAGKRdXl9ggBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/7f39/f39/iM/8AAAAAAAACM/7Hx8fHx8fCM/7d3d3d3d3tI1NlFrolE5Iz/gAAAAAAAA0jU2bm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicDlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAowCqALIAvQDCAMQAxgDIAMoAzwDRANMA1QDXANkA7AEOATsBQgFTAV4BawF3AZkBqwG9AckBywHNAc8B0QHTAdwB5QHqAesB7QHyAf0CBgIOAhECGgIfAjkCPQJQAlUCcgJ0AnYCfQKAAoIChAKHAokCiwKNAqMCuQLCAtgC3QLzAvcDBAMJAxwDHwMyAzkDPgNAA0IDRANGA0sDTQNPA1EDUwNVA1kDXwNkA2oDcwN8A4UDjgOTA5YDnwOkA7kDvAPRA+MD5gPrAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA+0="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E0DE4BE8-DA93-42CD-8400-5649B4F42A55",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{3, 7}, {180, 14}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "search-boolean",
+  "nameIsFixed": true,
+  "resizingConstraint": 14,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "D4D0E186-9794-4C71-9F76-DA2A4625827E",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorDictionaryAttribute": {
+          "alpha": 1,
+          "blue": 0.8901960784313725,
+          "green": 0.9333333333333333,
+          "red": 0.9372549019607843
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QE09iamVrdGl2TWsxLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA6QDuAPkBAgEYARwBKQEyATcBSgFNAWABcgF1AXoAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfA=="
+        },
+        "NSKern": 0.5,
+        "NSParagraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBgcIlUkbnVsbNgJCgsMDQ4PEBESExMVFhcVViRjbGFzc1pOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSABIAAgAKAAhABI0A7MzNAAAAAI0A7MzNAAAAA0hkJGhtaTlMub2JqZWN0c6CAA9IdHh8gWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIfIVhOU09iamVjdNIdHiMkXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjIyUhXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwA9AEMAVABbAGYAcwB/AKEAswDFANEA0wDVANcA2QDbAOQA7QDyAP0A/gEAAQUBEAEZASEBJAEtATIBTAFQAWMBdQF4AX0AAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABfw=="
+        }
+      },
+      "verticalAlignment": 1
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}
