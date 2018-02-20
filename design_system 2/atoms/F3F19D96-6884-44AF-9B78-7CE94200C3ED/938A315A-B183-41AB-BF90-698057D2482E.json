@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "0E1EA76B-EE48-48BE-B154-188433056396",
+  "do_objectID": "938A315A-B183-41AB-BF90-698057D2482E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 50,
-    "x": 617,
-    "y": 319
+    "x": 817,
+    "y": 338
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "color/class/blue 1",
+  "name": "color/class/purple",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -45,12 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "51DE330C-FD43-4249-9436-CEAA73015CD5",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "34534A59-AB6F-4BCD-9328-C1A172FD2FEF",
   "verticalSpacing": 0
 }
